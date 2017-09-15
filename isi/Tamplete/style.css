@@ -1,0 +1,46 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	font-family: sans-serif;
+}
+
+.judul{
+	background-color: #3A3A3A;
+	color: white;
+	text-align: center;
+	padding: 50px;
+	/* margin: 30px; */
+}
+.nav{
+	background-color: #3A3A3A;
+	padding: 15px;
+	border-top: 1px solid #6C6C00;
+	border-bottom:  1px solid #6C6C00;
+	height: 3%;
+	
+}
+a{
+	margin-left:  5px;
+	color: white;
+	text-decoration: none;
+	font-size: 20px;
+
+}
+.kiri{ 
+	padding-left: 28px; 
+	float: left;
+
+}
+.kanan{
+	padding-right: 28px; 
+	float: right;
+}
+footer{
+	background-color:  #3A3A3A;
+	padding: 20px;
+
+}
+h3{
+	text-align: center;
+	color: white;
+}
