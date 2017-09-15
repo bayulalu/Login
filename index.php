@@ -8,7 +8,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Mulai</title>
+	<title>Start</title>
 </head>
 
 <style type="text/css">
